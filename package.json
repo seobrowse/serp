@@ -1,7 +1,7 @@
 {
     "name": "SEOBrowse",
     "version": "1.3.2",
-    "description": "Browser build for SEO professionals.",
+    "description": "Browser built for SEO professionals.",
     "repository": {
         "url": "git@github.com:seobrowse/sserp.git",
         "type": "git"
